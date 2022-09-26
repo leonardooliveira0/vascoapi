@@ -1,0 +1,181 @@
+Thiago Rodrigues
+Quintero
+Ulisses
+Zé Vitor
+Riquelme
+Paulo Victor
+Zé Gabriel
+Yuri Lara
+Zé Santos
+Raniel
+
+
+
+{
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "Alexander",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Alex Teixeira",
+      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "preco": 10.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Anderson Conceição",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Andrey Santos",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Bruno Tubarão",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Carlos Palacios",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Danilo Boza",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Edimar",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Eguinaldo",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Erick",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Fábio Gomes",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Figueiredo",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Gabriel Dias",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Gabriel Pec",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Halls",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Léo Matos",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Luiz Henrique",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Marlon Gomes",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Martín Sarrafiore",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Matheus Barbosa",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Matheus Ribeiro",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+	{
+      "id": 1,
+      "nome": "Nenê",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "categoria_id": 1
+    },
+  ],
+  "posicoes": [
+    {
+      "id": 1,
+      "nome": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes"
+    }
+  ]
+}
